@@ -152,4 +152,3 @@ async def handle_upload(client: Client, message: Message):
 if __name__ == "__main__":
     print("Bot is starting...")
     bot.run()
-```
