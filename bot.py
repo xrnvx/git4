@@ -1,6 +1,3 @@
-Berikut isi lengkap `bot.py`—cukup copy & paste ke file `bot.py` di project-mu:
-
-```python
 import os
 from datetime import datetime
 from pymongo import MongoClient
